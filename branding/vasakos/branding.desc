@@ -8,7 +8,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  archlinuxgui
+componentName:  vasakos
 
 
 ### WELCOME / OVERALL WORDING
@@ -121,15 +121,15 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         "@{NAME}"
-    shortProductName:    Arch Linux
-    version:             2021-07
+    productName:         VasakOS
+    shortProductName:    VasakOS
+    version:             alpha
     #shortVersion:        
-    versionedName:       Arch Linux 
-    shortVersionedName:  Arch Linux
-    bootloaderEntryName: Arch Linux
-    #productUrl:          https://calamares.io/
-    #supportUrl:          https://github.com/calamares/calamares/wiki
+    versionedName:       Papilio 
+    shortVersionedName:  VasakOS Papilio
+    bootloaderEntryName: VasakOS
+    productUrl:          https://os.vasak.net.ar/
+    supportUrl:          https://t.me/vasakos
     #knownIssuesUrl:      https://github.com/calamares/calamares/issues
     #releaseNotesUrl:     https://calamares.io/news/
     #donateUrl:           https://kde.org/community/donations/index.php
